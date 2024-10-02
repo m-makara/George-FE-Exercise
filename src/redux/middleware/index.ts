@@ -1,0 +1,1 @@
+export { setSearchMiddleware } from "./setSearchMiddleware";
